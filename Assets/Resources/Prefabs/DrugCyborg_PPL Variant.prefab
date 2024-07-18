@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2097089061752324582
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 129895416146342391, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 38fb41ed62f11de4db6dc41eb93070e6, type: 2}
+    - target: {fileID: 2554120004642645809, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 38fb41ed62f11de4db6dc41eb93070e6, type: 2}
+    - target: {fileID: 3651398875649020734, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: firingTime
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3651398875649020734, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: attackDelay
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3651398875649020734, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: startWeapon
+      value: 
+      objectReference: {fileID: 3953325612179353764, guid: 3f8886ebf36ffdd43b2cd6a1a1fa4a41, type: 3}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.562
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4494011815386507391, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 38fb41ed62f11de4db6dc41eb93070e6, type: 2}
+    - target: {fileID: 4498311250954371167, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Name
+      value: DrugCyborg_PPL Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7641600028361957060, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 38fb41ed62f11de4db6dc41eb93070e6, type: 2}
+    - target: {fileID: 9177827435457656872, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 38fb41ed62f11de4db6dc41eb93070e6, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}

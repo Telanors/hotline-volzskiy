@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Clipping_Avatar
+  m_Mask: 01000000010000000100000001000000010000000100000000000000010000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: ADecor
+    m_Weight: 0
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bezimyan_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bezimyan_R/Bezimyan_1_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bezimyan_R/Bezimyan_1_R/Bezimyan_2_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bezimyan_R/Bezimyan_1_R/Bezimyan_2_R/Bezimyan_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bolshoi_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bolshoi_R/Bolshoi_1_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bolshoi_R/Bolshoi_1_R/Bolshoi_2_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Bolshoi_R/Bolshoi_1_R/Bolshoi_2_R/Bolshoi_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Mizinic_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Mizinic_R/Mizinic_1_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Mizinic_R/Mizinic_1_R/Mizinic_2_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Mizinic_R/Mizinic_1_R/Mizinic_2_R/Mizinic_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Sredniy_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Sredniy_R/Sredniy_1_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Sredniy_R/Sredniy_1_R/Sredniy_2_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Sredniy_R/Sredniy_1_R/Sredniy_2_R/Sredniy_2_R_end
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Ukazat_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Ukazat_R/Ukazat_1_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Ukazat_R/Ukazat_1_R/Ukazat_2_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Shoulder_R/Forearm_R/Hand_R/Ukazat_R/Ukazat_1_R/Ukazat_2_R/Ukazat_2_R_end
+    m_Weight: 1
+  - m_Path: MainArm
+    m_Weight: 0

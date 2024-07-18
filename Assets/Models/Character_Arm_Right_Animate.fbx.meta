@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: e39ebc9bae51ac24ebc91e2d48c361b6
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2279122170412887810
+    second: Armature|Drop
+  - first:
+      74: -141278795884638593
+    second: Armature|Empty_PD-74M
+  - first:
+      74: 6828024454906332738
+    second: Armature|Fire_PD-74M
+  - first:
+      74: -4897059477581072942
+    second: Armature|Idle_NoWeapon
+  - first:
+      74: 8401303180572529715
+    second: Armature|Idle_WithWeapon
+  - first:
+      74: 3515170952244877179
+    second: Armature|PickUp
+  - first:
+      74: 3745417043511234349
+    second: Armature|Raising_PD-74M
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Head' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Forearm_R
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Hand_R
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bolshoi_R
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bolshoi_1_R
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bolshoi_2_R
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ukazat_R
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ukazat_1_R
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Ukazat_2_R
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sredniy_R
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sredniy_1_R
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Sredniy_2_R
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bezimyan_R
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bezimyan_1_R
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Bezimyan_2_R
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mizinic_R
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mizinic_1_R
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Mizinic_2_R
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Shoulder_R
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Root
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Character_Arm_Right_Animate(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: ADecor
+      parentName: Character_Arm_Right_Animate(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Character_Arm_Right_Animate(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root
+      parentName: Armature
+      position: {x: -0, y: 0, z: 0.19926211}
+      rotation: {x: 0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Shoulder_R
+      parentName: Root
+      position: {x: 0.43190816, y: -0.20995879, z: -0.000000026347172}
+      rotation: {x: -0.12134584, y: -0.4297041, z: 0.8937557, w: -0.042784203}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: Forearm_R
+      parentName: Shoulder_R
+      position: {x: 0.0000000018626451, y: 0.8855395, z: 0.000000074505806}
+      rotation: {x: 0.95756173, y: 0.0000034203656, z: -0.0383513, w: 0.2856654}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hand_R
+      parentName: Forearm_R
+      position: {x: 0.00000009313226, y: 1.0873724, z: 0.000000037252903}
+      rotation: {x: -0.0424243, y: 0.05592949, z: 0.1395888, w: 0.9877181}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: Bezimyan_R
+      parentName: Hand_R
+      position: {x: -0.0075296112, y: 0.38616133, z: -0.04732901}
+      rotation: {x: 0.006099278, y: 0.007157536, z: -0.7609962, w: 0.64868814}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: Bezimyan_1_R
+      parentName: Bezimyan_R
+      position: {x: -0.000000004656613, y: 0.15644269, z: 0.000000027295783}
+      rotation: {x: -0.0050601405, y: -0.0041217064, z: -0.6328078, w: 0.7742814}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1}
+    - name: Bezimyan_2_R
+      parentName: Bezimyan_1_R
+      position: {x: -0.0000000088475645, y: 0.1356679, z: -0.00000007310882}
+      rotation: {x: 0.017220527, y: 0.0018847464, z: -0.109914914, w: 0.99379003}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Bezimyan_2_R_end
+      parentName: Bezimyan_2_R
+      position: {x: -0, y: 0.094244495, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bolshoi_R
+      parentName: Hand_R
+      position: {x: 0.0075296555, y: 0.16134863, z: 0.13230588}
+      rotation: {x: 0.5017469, y: 0.48291755, z: -0.42744875, w: 0.57647926}
+      scale: {x: 0.9999997, y: 0.9999997, z: 1.0000001}
+    - name: Bolshoi_1_R
+      parentName: Bolshoi_R
+      position: {x: 0.000000015366822, y: 0.12333706, z: -0.000000035390258}
+      rotation: {x: -0.57510895, y: -0.0000013944335, z: -0.000001102889, w: 0.8180769}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Bolshoi_2_R
+      parentName: Bolshoi_1_R
+      position: {x: 0.000000013969839, y: 0.122035466, z: 0.000000014901161}
+      rotation: {x: -0.20564353, y: 0.0000030601007, z: 0.00000062881094, w: 0.97862697}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Bolshoi_2_R_end
+      parentName: Bolshoi_2_R
+      position: {x: -0, y: 0.09458095, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Mizinic_R
+      parentName: Hand_R
+      position: {x: -0.0075296415, y: 0.38723713, z: -0.11401981}
+      rotation: {x: 0.0010515816, y: 0.0012988169, z: -0.7808956, w: 0.62465936}
+      scale: {x: 1.0000015, y: 1.0000017, z: 1}
+    - name: Mizinic_1_R
+      parentName: Mizinic_R
+      position: {x: 0.00000007811468, y: 0.12933694, z: 0.00000006406299}
+      rotation: {x: -0.0043688724, y: -0.0028012434, z: -0.5406737, w: 0.84121644}
+      scale: {x: 0.99999964, y: 0.99999964, z: 1}
+    - name: Mizinic_2_R
+      parentName: Mizinic_1_R
+      position: {x: 0.000000016763806, y: 0.12285507, z: -0.00000005005859}
+      rotation: {x: 0.0060931602, y: 0.0010045315, z: -0.16404742, w: 0.98643315}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Mizinic_2_R_end
+      parentName: Mizinic_2_R
+      position: {x: -0, y: 0.08135511, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sredniy_R
+      parentName: Hand_R
+      position: {x: -0.0075295814, y: 0.3840101, z: 0.029042723}
+      rotation: {x: -0.0020900671, y: -0.0018436789, z: -0.66669667, w: 0.745324}
+      scale: {x: 1.0000008, y: 1.000001, z: 1}
+    - name: Sredniy_1_R
+      parentName: Sredniy_R
+      position: {x: -0.000000024214387, y: 0.16833363, z: -0.00000003888499}
+      rotation: {x: 0.003398893, y: 0.004212146, z: -0.77881145, w: 0.6272348}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sredniy_2_R
+      parentName: Sredniy_1_R
+      position: {x: -0.000000007916242, y: 0.15060972, z: 0.0000000027939677}
+      rotation: {x: 0.0037824302, y: 0.00028279304, z: -0.07603048, w: 0.9970983}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Sredniy_2_R_end
+      parentName: Sredniy_2_R
+      position: {x: -0, y: 0.09528428, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Ukazat_R
+      parentName: Hand_R
+      position: {x: -0.007529582, y: 0.3872371, z: 0.10111183}
+      rotation: {x: 0.04056593, y: 0.01034505, z: 0.013448603, w: 0.9990328}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Ukazat_1_R
+      parentName: Ukazat_R
+      position: {x: 0.000000030733645, y: 0.1546391, z: 0.00000002142042}
+      rotation: {x: 0.03253641, y: -0.011815407, z: -0.73840666, w: 0.6734667}
+      scale: {x: 1.0000008, y: 1.0000007, z: 0.99999994}
+    - name: Ukazat_2_R
+      parentName: Ukazat_1_R
+      position: {x: 0.000000027939677, y: 0.13733386, z: 0.0000000018626451}
+      rotation: {x: 0.018853102, y: 0.00943946, z: -0.44864237, w: 0.89346266}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: Ukazat_2_R_end
+      parentName: Ukazat_2_R
+      position: {x: -0, y: 0.09553913, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: MainArm
+      parentName: Character_Arm_Right_Animate(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

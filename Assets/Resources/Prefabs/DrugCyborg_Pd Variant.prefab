@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6582040828293666869
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3651398875649020734, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: startWeapon
+      value: 
+      objectReference: {fileID: 3132537162790672578, guid: 5a551911aa5554146bc7e8158ea4b7b9, type: 3}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.612
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 11.562
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3830002054055008997, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4498311250954371167, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}
+      propertyPath: m_Name
+      value: DrugCyborg (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 85c2aef77255df2478c43a0385b4c82b, type: 3}

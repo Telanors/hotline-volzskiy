@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 019e6379dc4be0f419d3106e2bfd3c51, type: 3}
+  m_Name: AI_Bullet
+  m_EditorClassIdentifier: 
+  ignoreMask:
+    serializedVersion: 2
+    m_Bits: 4164
+  bulletHoleprefabs:
+  - {fileID: 2906646339059980488, guid: caa8f7b7170b6e54794d0d7d65d4f604, type: 3}
+  prefab: {fileID: 7297514322248402933, guid: a0afd85d770caa0479e2b82142ccd66e, type: 3}
+  speed: 100
+  damage: 100
+  impactForce: 10
+  spread: 0
+  maxDistance: 100
+  spawnCount: 1

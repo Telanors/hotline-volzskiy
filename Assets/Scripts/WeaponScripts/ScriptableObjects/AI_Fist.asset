@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56f10b33f53a25b46915d64f5487950f, type: 3}
+  m_Name: AI_Fist
+  m_EditorClassIdentifier: 
+  name: Fist
+  description: Hmm...It`s..Fist!
+  maxRaycastDistance: 1.35
+  fireRate: 4
+  maxMagazineSize: 0
+  defaultLayerMask: 0
+  yPositionRecoil: 0
+  zPositionRecoil: 0
+  xRotationRecoil: 0
+  recoilPerlinNoiseMultuply: 0
+  recoilTimeMultiply: 0
+  YAnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  ZAnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  recoilParametrs: {fileID: 0}
+  defaultPosition: {x: -0.25, y: 0.45, z: -0.40000004}
+  shellPrefab: {fileID: 0}
+  muzzleFlashPrefab: {fileID: 0}
+  bullet: {fileID: 11400000, guid: ef8761165741faa479ab392030a8bffb, type: 2}
+  AIbullet: {fileID: 11400000, guid: ef8761165741faa479ab392030a8bffb, type: 2}
+  shotSounds:
+  - {fileID: 8300000, guid: 76c31f228d3487b4db5d0c19cffef974, type: 3}
+  shutterDelaySound: {fileID: 0}
+  triggerSound: {fileID: 8300000, guid: d9fa936856e338c46929bcba0962a749, type: 3}
+  fallSound: {fileID: 0}
